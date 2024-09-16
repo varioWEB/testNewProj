@@ -1,4 +1,35 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700&family=Inconsolata%3Aital%2Cwght%400%2C400%3B0%2C600%3B0%2C700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter%3Aital%2Cwght%400%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700&family=Inconsolata%3Aital%2Cwght%400%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700&family=Open+Sans%3Aital%2Cwght%400%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700&family=Poppins%3Aital%2Cwght%400%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700&family=Montserrat%3Aital%2Cwght%400%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700&display=swap");
+
+.plasmic_tokens {
+  --token-PhswgFjhbXz9: rgb(255, 255, 255);
+  --plasmic-token-white: var(--token-PhswgFjhbXz9);
+  --token-vo2RA3d4JdbA: #88dd9b;
+  --plasmic-token-green: var(--token-vo2RA3d4JdbA);
+  --token-ztAb99swuc9A: rgb(50, 52, 54);
+  --plasmic-token-l-pri-text-g-20: var(--token-ztAb99swuc9A);
+  --token-RBbjkLSumhfU: #384647;
+  --plasmic-token-text: var(--token-RBbjkLSumhfU);
+  --token-9YYlbz1rwh37: rgb(97, 96, 96);
+  --plasmic-token-heading: var(--token-9YYlbz1rwh37);
+  --token-eTcDA0btapy_: #f7f7f7;
+  --plasmic-token-background: var(--token-eTcDA0btapy_);
+  --token-_MbVdafdoArr: rgb(240, 242, 245);
+  --plasmic-token-l-sec-button-idle-g-95: var(--token-_MbVdafdoArr);
+  --token-LGhSQGRODV1e: #6b797a;
+  --plasmic-token-heading-3: var(--token-LGhSQGRODV1e);
+  --token-XA2Y91wS-Bim: 270px;
+  --plasmic-token-product-height: var(--token-XA2Y91wS-Bim);
+  --token-4A1MxDU_dpuh: #273132;
+  --plasmic-token-heading-2: var(--token-4A1MxDU_dpuh);
+  --token-3YH9yweeeegc: rgb(24, 25, 26);
+  --plasmic-token-spectrum-gray-10: var(--token-3YH9yweeeegc);
+  --token-ju7XiMnAi252: rgb(95, 91, 87);
+  --plasmic-token-border: var(--token-ju7XiMnAi252);
+  --token-36OVi7HNxOht: rgb(255, 255, 255);
+  --plasmic-token-alpha-white-00: var(--token-36OVi7HNxOht);
+  --token-NUC-YflIt1FH: rgb(74, 76, 79);
+  --plasmic-token-l-pri-icon-g-30: var(--token-NUC-YflIt1FH);
+}
 
 .plasmic_tokens {
   --plsmc-standard-width: 800px;

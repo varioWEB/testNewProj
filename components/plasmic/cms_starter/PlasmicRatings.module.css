@@ -1,0 +1,220 @@
+.root {
+  display: flex;
+  flex-direction: row;
+  position: relative;
+  width: 200px;
+}
+.root > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-left: calc(0px - 8px);
+  width: calc(100% + 8px);
+}
+.root > :global(.__wab_flex-container) > *,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.root > :global(.__wab_flex-container) > picture > img,
+.root > :global(.__wab_flex-container) > :global(.__wab_slot) > picture > img {
+  margin-left: 8px;
+}
+.freeBox {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+}
+.freeBox > :global(.__wab_flex-container) {
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  margin-left: calc(0px - 5px);
+  width: calc(100% + 5px);
+}
+.freeBox > :global(.__wab_flex-container) > *,
+.freeBox > :global(.__wab_flex-container) > :global(.__wab_slot) > *,
+.freeBox > :global(.__wab_flex-container) > picture > img,
+.freeBox
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-left: 5px;
+}
+.svg__pdeyQ {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: rgb(239, 206, 74);
+  flex-shrink: 0;
+}
+.svgstars_zero__pdeyQjVic {
+  display: none;
+}
+.svg__nsNyr {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: rgb(239, 206, 74);
+  flex-shrink: 0;
+  display: none;
+}
+.svgstars_zero__nsNyrjVic {
+  display: none;
+}
+.svgstars_one__nsNyr4Xre {
+  display: none;
+}
+.svg__wrt10 {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: rgb(239, 206, 74);
+  flex-shrink: 0;
+  display: none;
+}
+.svgstars_zero__wrt10JVic {
+  display: none;
+}
+.svgstars_one__wrt104Xre {
+  display: none;
+}
+.svgstars_two__wrt10Bk9Y2 {
+  display: none;
+}
+.svg__oD4DH {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: rgb(239, 206, 74);
+  flex-shrink: 0;
+  display: none;
+}
+.svgstars_zero__oD4DHjVic {
+  display: none;
+}
+.svgstars_one__oD4DH4Xre {
+  display: none;
+}
+.svgstars_two__oD4DHbk9Y2 {
+  display: none;
+}
+.svgstars_three__oD4DHnNSkP {
+  display: none;
+}
+.svg___7CkEq {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: rgb(239, 206, 74);
+  flex-shrink: 0;
+  display: none;
+}
+.svgstars_zero___7CkEQjVic {
+  display: none;
+}
+.svgstars_one___7CkEq4Xre {
+  display: none;
+}
+.svgstars_two___7CkEqbk9Y2 {
+  display: none;
+}
+.svgstars_three___7CkEQnNSkP {
+  display: none;
+}
+.svgstars_four___7CkEqm17Vb {
+  display: none;
+}
+.svg__lj73F {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: rgb(169, 169, 169);
+  flex-shrink: 0;
+  display: none;
+}
+.svgstars_one__lj73F4Xre {
+  display: none;
+}
+.svgstars_two__lj73FBk9Y2 {
+  display: none;
+}
+.svgstars_three__lj73FnNSkP {
+  display: none;
+}
+.svgstars_four__lj73FM17Vb {
+  display: none;
+}
+.svgstars_five__lj73FHs6Iz {
+  display: none;
+}
+.svg__g74Xp {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: rgb(169, 169, 169);
+  flex-shrink: 0;
+}
+.svgstars_two__g74XpBk9Y2 {
+  display: none;
+}
+.svgstars_three__g74XpnNSkP {
+  display: none;
+}
+.svgstars_four__g74XpM17Vb {
+  display: none;
+}
+.svgstars_five__g74XpHs6Iz {
+  display: none;
+}
+.svg__tR9S {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: rgb(169, 169, 169);
+  flex-shrink: 0;
+}
+.svgstars_three__tR9SNNSkP {
+  display: none;
+}
+.svgstars_four__tR9SM17Vb {
+  display: none;
+}
+.svgstars_five__tR9SHs6Iz {
+  display: none;
+}
+.svg__wkEg2 {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: rgb(169, 169, 169);
+  flex-shrink: 0;
+}
+.svgstars_four__wkEg2M17Vb {
+  display: none;
+}
+.svgstars_five__wkEg2Hs6Iz {
+  display: none;
+}
+.svg__wBlzx {
+  position: relative;
+  object-fit: cover;
+  width: 14px;
+  height: 14px;
+  color: rgb(169, 169, 169);
+  flex-shrink: 0;
+}
+.svgstars_five__wBlzxHs6Iz {
+  display: none;
+}
+.slotTargetNumReviews {
+  font-size: 14px;
+  color: var(--token-RBbjkLSumhfU);
+}
